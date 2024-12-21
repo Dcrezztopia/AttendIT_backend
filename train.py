@@ -72,7 +72,7 @@ def capture_dataset_for_training(name):
 
 if __name__ == "__main__":
     # Menambahkan dataset foto anggota kelompok (misalnya 'Pascalis')
-    name = "Dela"  # Anda bisa mengganti dengan nama lain untuk anggota lain
+    name = "Pascalis"  # Anda bisa mengganti dengan nama lain untuk anggota lain
     capture_dataset_for_training(name)
     
     # Melatih model setelah foto disiapkan
